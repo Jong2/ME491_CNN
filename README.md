@@ -37,7 +37,7 @@ https://colab.research.google.com
 
 ##### 2. Upload this repository in your google drive
 - Upload all files in *ME491_CNN/notebook folder* to your *google drive/Colab Notebooks*.
-- You can now use catdog_data in Google Colab.
+- You can now use *catdog_data* in Google Colab.
 
 ##### 3. Access Google Colab
 
